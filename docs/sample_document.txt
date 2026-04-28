@@ -1,0 +1,45 @@
+SAMPLE COMPANY POLICY DOCUMENT
+================================
+This file is a sample document to help you test the RAG chatbot.
+Replace it with your own PDF, TXT, or MD files.
+
+LEAVE POLICY
+------------
+Employees are entitled to 20 days of paid annual leave per year.
+Leave must be applied for at least 2 weeks in advance via the HR portal.
+Unused leave of up to 10 days can be carried forward to the next calendar year.
+Sick leave is separate from annual leave and is limited to 10 days per year with a medical certificate.
+
+REMOTE WORK POLICY
+------------------
+Employees may work remotely up to 3 days per week with manager approval.
+All remote workers must be available during core hours: 10 AM to 4 PM local time.
+A stable internet connection of at least 10 Mbps is required for remote work.
+Remote work privileges can be revoked if performance targets are not met.
+
+EXPENSE REIMBURSEMENT
+---------------------
+Business expenses must be submitted within 30 days of the expense being incurred.
+Receipts are required for any expense above $25.
+Travel expenses must be pre-approved by a department head for amounts exceeding $500.
+Reimbursements are processed within 15 business days of submission.
+
+CODE OF CONDUCT
+---------------
+All employees must treat colleagues with respect and professionalism.
+Harassment, discrimination, or bullying of any kind will not be tolerated.
+Confidential company information must not be shared with external parties.
+Violations of this code may result in disciplinary action up to and including termination.
+
+IT SECURITY POLICY
+------------------
+Employees must use strong passwords of at least 12 characters.
+Multi-factor authentication (MFA) is mandatory for all company accounts.
+Personal USB devices may not be connected to company computers.
+Any suspected security breach must be reported to IT within 1 hour of discovery.
+
+CONTACT
+-------
+HR Department: hr@company.com
+IT Support: it@company.com
+General Enquiries: info@company.com
